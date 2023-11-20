@@ -17,7 +17,7 @@ import java.util.Scanner;
  * @author Marcos Lema Rodriguez
  * @version v1.0
  * <br>
- * DNI: 47374401J
+ * DNI: *********
  * <br>
  * Modulo: programacion DAW2324
  * <br>
